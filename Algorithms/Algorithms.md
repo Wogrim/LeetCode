@@ -6,3 +6,6 @@
 
 [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [js](add-two-numbers.js) O(n)
+
+[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [js](longest-substring-without-repeating-characters.js) O(n)
