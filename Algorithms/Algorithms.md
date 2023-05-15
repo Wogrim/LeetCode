@@ -9,3 +9,6 @@
 
 [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [js](longest-substring-without-repeating-characters.js) O(n)
+
+[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+- [js](palindrome-number.js)
