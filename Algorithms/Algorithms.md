@@ -18,3 +18,6 @@
 
 [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [js](./longest-common-prefix.js)
+
+[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+- [js](./letter-combinations-of-a-phone-number.js)
