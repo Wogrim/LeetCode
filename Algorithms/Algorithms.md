@@ -14,4 +14,7 @@
 - [js](./palindrome-number.js)
 
 [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
-- [js](./container-with-most-water.js)
+- [js](./container-with-most-water.js) O(n)
+
+[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+- [js](./longest-common-prefix.js)
