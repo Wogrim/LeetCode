@@ -24,3 +24,6 @@
 
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [js](./merge-two-sorted-lists.js)
+
+[24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+- [js](./swap-nodes-in-pairs.js)
