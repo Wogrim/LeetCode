@@ -27,3 +27,6 @@
 
 [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 - [js](./swap-nodes-in-pairs.js)
+
+[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [js](./remove-duplicates-from-sorted-array.js)
