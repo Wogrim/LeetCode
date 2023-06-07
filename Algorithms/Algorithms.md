@@ -30,3 +30,7 @@
 
 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [js](./remove-duplicates-from-sorted-array.js)
+
+[27. Remove Element](https://leetcode.com/problems/remove-element/)
+- [js](./remove-element.js)
+
