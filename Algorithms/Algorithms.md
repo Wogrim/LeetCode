@@ -34,3 +34,5 @@
 [27. Remove Element](https://leetcode.com/problems/remove-element/)
 - [js](./remove-element.js)
 
+[39. Combination Sum](https://leetcode.com/problems/combination-sum/)
+- [js](./combination-sum.js)
