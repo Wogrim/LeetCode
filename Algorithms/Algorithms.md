@@ -34,5 +34,8 @@
 [27. Remove Element](https://leetcode.com/problems/remove-element/)
 - [js](./remove-element.js)
 
-[39. Combination Sum](https://leetcode.com/problems/combination-sum/)
-- [js](./combination-sum.js)
+[31. Next Permutation](https://leetcode.com/problems/next-permutation/)
+- [js](./next-permutation.js)
+
+[38. Count and Say](https://leetcode.com/problems/count-and-say/)
+- [js](./count-and-say.js)
