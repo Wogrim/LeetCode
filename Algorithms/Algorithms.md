@@ -10,6 +10,9 @@
 [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [js](./longest-substring-without-repeating-characters.js) O(n)
 
+[8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+- [js](./string-to-integer-atoi.js)
+
 [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 - [js](./palindrome-number.js)
 
