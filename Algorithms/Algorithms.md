@@ -25,6 +25,9 @@
 [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 - [js](./letter-combinations-of-a-phone-number.js)
 
+[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [js](./valid-parentheses.js)
+
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [js](./merge-two-sorted-lists.js)
 
