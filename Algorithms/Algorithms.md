@@ -54,3 +54,6 @@
 
 [38. Count and Say](https://leetcode.com/problems/count-and-say/)
 - [js](./count-and-say.js)
+
+[39. Combination Sum](https://leetcode.com/problems/combination-sum/)
+- [js](./combination-sum.js)
