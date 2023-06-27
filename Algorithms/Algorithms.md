@@ -57,3 +57,6 @@
 
 [39. Combination Sum](https://leetcode.com/problems/combination-sum/)
 - [js](./combination-sum.js)
+
+[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+- [js](./trapping-rain-water.js)
