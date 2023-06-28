@@ -63,3 +63,6 @@
 
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 - [js](./trapping-rain-water.js)
+
+[44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
+- [js](./wildcard-matching.js)
