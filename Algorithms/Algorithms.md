@@ -69,3 +69,6 @@
 
 [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 - [js](./jump-game-ii.js)
+
+[48. Rotate Image](https://leetcode.com/problems/rotate-image/)
+- [js](./rotate-image.js)
