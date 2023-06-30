@@ -66,3 +66,6 @@
 
 [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
 - [js](./wildcard-matching.js)
+
+[45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+- [js](./jump-game-ii.js)
