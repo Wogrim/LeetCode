@@ -72,3 +72,6 @@
 
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [js](./rotate-image.js)
+
+[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [js](./group-anagrams.js)
