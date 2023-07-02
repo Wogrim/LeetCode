@@ -75,3 +75,6 @@
 
 [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [js](./group-anagrams.js)
+
+[50. Pow(x,n)](https://leetcode.com/problems/powx-n/)
+- [js](./powx-n.js)
