@@ -78,3 +78,6 @@
 
 [50. Pow(x,n)](https://leetcode.com/problems/powx-n/)
 - [js](./powx-n.js)
+
+[51. N-Queens](https://leetcode.com/problems/n-queens)
+- [js](./n-queens.js)
