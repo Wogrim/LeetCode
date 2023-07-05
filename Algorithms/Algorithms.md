@@ -81,3 +81,6 @@
 
 [51. N-Queens](https://leetcode.com/problems/n-queens)
 - [js](./n-queens.js)
+
+[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
+- [js](./maximum-subarray.js)
