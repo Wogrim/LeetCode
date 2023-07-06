@@ -84,3 +84,6 @@
 
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 - [js](./maximum-subarray.js)
+
+[55. Jump Game](https://leetcode.com/problems/jump-game)
+- [js](./jump-game.js)
