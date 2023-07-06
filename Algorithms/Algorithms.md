@@ -87,3 +87,6 @@
 
 [55. Jump Game](https://leetcode.com/problems/jump-game)
 - [js](./jump-game.js)
+
+[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word)
+- [js](./length-of-last-word.js)
