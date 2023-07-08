@@ -90,3 +90,6 @@
 
 [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word)
 - [js](./length-of-last-word.js)
+
+[60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence)
+- [js](./permutation-sequence.js)
