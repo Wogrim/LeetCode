@@ -93,3 +93,6 @@
 
 [60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence)
 - [js](./permutation-sequence.js)
+
+[61. Rotate List](https://leetcode.com/problems/rotate-list)
+- [js](./rotate-list.js)
