@@ -96,3 +96,6 @@
 
 [61. Rotate List](https://leetcode.com/problems/rotate-list)
 - [js](./rotate-list.js)
+
+[62. Unique Paths](https://leetcode.com/problems/unique-paths)
+- [js](./unique-paths.js)
