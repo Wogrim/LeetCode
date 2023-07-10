@@ -100,5 +100,8 @@
 [62. Unique Paths](https://leetcode.com/problems/unique-paths)
 - [js](./unique-paths.js)
 
-[62. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)
+[64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)
 - [js](./minimum-path-sum.js)
+
+[66. Plus One](https://leetcode.com/problems/plus-one)
+- [js](./plus-one.js)
