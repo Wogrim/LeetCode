@@ -105,3 +105,6 @@
 
 [66. Plus One](https://leetcode.com/problems/plus-one)
 - [js](./plus-one.js)
+
+[68. Text Justification](https://leetcode.com/problems/text-justification)
+- [js](./text-justification.js)
