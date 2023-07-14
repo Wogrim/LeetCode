@@ -108,3 +108,6 @@
 
 [68. Text Justification](https://leetcode.com/problems/text-justification)
 - [js](./text-justification.js)
+
+[69. Sqrt(x)](https://leetcode.com/problems/sqrtx)
+- [js](./sqrtx.js)
