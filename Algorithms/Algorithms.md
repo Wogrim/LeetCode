@@ -111,3 +111,6 @@
 
 [69. Sqrt(x)](https://leetcode.com/problems/sqrtx)
 - [js](./sqrtx.js)
+
+[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
+- [js](./climbing-stairs.js)
