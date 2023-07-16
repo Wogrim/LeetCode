@@ -114,3 +114,6 @@
 
 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
 - [js](./climbing-stairs.js)
+
+[73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)
+- [js](./set-matrix-zeroes.js)
