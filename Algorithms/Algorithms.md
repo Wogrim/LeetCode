@@ -123,3 +123,6 @@
 
 [75. Sort Colors](https://leetcode.com/problems/sort-colors)
 - [js](./sort-colors.js)
+
+[78. Subsets](https://leetcode.com/problems/subsets)
+- [js](./subsets.js)
