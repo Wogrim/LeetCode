@@ -130,5 +130,8 @@
 [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
 - [js](./remove-duplicates-from-sorted-array-ii.js)
 
+[82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)
+- [js](./remove-duplicates-from-sorted-list-ii.js)
+
 [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)
 - [js](./remove-duplicates-from-sorted-list.js)
