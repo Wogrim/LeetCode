@@ -135,3 +135,6 @@
 
 [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)
 - [js](./remove-duplicates-from-sorted-list.js)
+
+[84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
+- [js](./largest-rectangle-in-histogram.js)
