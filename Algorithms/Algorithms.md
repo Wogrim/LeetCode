@@ -138,3 +138,6 @@
 
 [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
 - [js](./largest-rectangle-in-histogram.js)
+
+[86. Partition List](https://leetcode.com/problems/partition-list)
+- [js](./partition-list.js)
