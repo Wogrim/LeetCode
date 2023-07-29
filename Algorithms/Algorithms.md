@@ -141,3 +141,6 @@
 
 [86. Partition List](https://leetcode.com/problems/partition-list)
 - [js](./partition-list.js)
+
+[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
+- [js](./merge-sorted-array.js)
