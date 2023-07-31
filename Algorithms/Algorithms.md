@@ -144,3 +144,6 @@
 
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
 - [js](./merge-sorted-array.js)
+
+[100. Same Tree](https://leetcode.com/problems/same-tree)
+- [js](./same-tree.js)
