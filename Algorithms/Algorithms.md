@@ -145,5 +145,8 @@
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
 - [js](./merge-sorted-array.js)
 
+[92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)
+- [js](./reverse-linked-list-ii.js)
+
 [100. Same Tree](https://leetcode.com/problems/same-tree)
 - [js](./same-tree.js)
