@@ -151,5 +151,8 @@
 [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses)
 - [js](./restore-ip-addresses.js)
 
+[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
+- [js](./binary-tree-inorder-traversal.js)
+
 [100. Same Tree](https://leetcode.com/problems/same-tree)
 - [js](./same-tree.js)
