@@ -148,5 +148,8 @@
 [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)
 - [js](./reverse-linked-list-ii.js)
 
+[93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses)
+- [js](./restore-ip-addresses.js)
+
 [100. Same Tree](https://leetcode.com/problems/same-tree)
 - [js](./same-tree.js)
