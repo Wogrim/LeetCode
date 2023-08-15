@@ -154,5 +154,9 @@
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
 - [js](./binary-tree-inorder-traversal.js)
 
+[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)
+- [js](./unique-binary-search-trees.js)
+
 [100. Same Tree](https://leetcode.com/problems/same-tree)
 - [js](./same-tree.js)
+
