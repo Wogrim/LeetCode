@@ -160,3 +160,5 @@
 [100. Same Tree](https://leetcode.com/problems/same-tree)
 - [js](./same-tree.js)
 
+[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
+- [js](./symmetric-tree.js)
