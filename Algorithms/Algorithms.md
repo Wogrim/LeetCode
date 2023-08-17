@@ -165,3 +165,6 @@
 
 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
 - [js](./binary-tree-level-order-traversal.js)
+
+[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
+- [js](./maximum-depth-of-binary-tree.js)
