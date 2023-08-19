@@ -168,3 +168,6 @@
 
 [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
 - [js](./maximum-depth-of-binary-tree.js)
+
+[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
+- [js](./construct-binary-tree-from-preorder-and-inorder-traversal.js)
