@@ -171,3 +171,6 @@
 
 [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
 - [js](./construct-binary-tree-from-preorder-and-inorder-traversal.js)
+
+[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
+- [js](./balanced-binary-tree.js)
