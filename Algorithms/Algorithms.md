@@ -177,3 +177,6 @@
 
 [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)
 - [js](./minimum-depth-of-binary-tree.js)
+
+[112. Path Sum](https://leetcode.com/problems/path-sum)
+- [js](./path-sum.js)
