@@ -174,3 +174,6 @@
 
 [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
 - [js](./balanced-binary-tree.js)
+
+[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)
+- [js](./minimum-depth-of-binary-tree.js)
