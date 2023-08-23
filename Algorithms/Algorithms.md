@@ -183,3 +183,6 @@
 
 [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)
 - [js](./pascals-triangle.js)
+
+[120. Triangle](https://leetcode.com/problems/triangle)
+- [js](./triangle.js)
