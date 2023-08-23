@@ -180,3 +180,6 @@
 
 [112. Path Sum](https://leetcode.com/problems/path-sum)
 - [js](./path-sum.js)
+
+[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)
+- [js](./pascals-triangle.js)
