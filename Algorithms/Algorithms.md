@@ -186,3 +186,6 @@
 
 [120. Triangle](https://leetcode.com/problems/triangle)
 - [js](./triangle.js)
+
+[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+- [js](./best-time-to-buy-and-sell-stock.js)
