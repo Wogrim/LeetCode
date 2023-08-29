@@ -192,3 +192,6 @@
 
 [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)
 - [js](./best-time-to-buy-and-sell-stock-ii.js)
+
+[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
+- [js](./longest-consecutive-sequence.js) O(nlogn)
