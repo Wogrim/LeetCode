@@ -195,3 +195,6 @@
 
 [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
 - [js](./longest-consecutive-sequence.js) O(nlogn)
+
+[129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)
+- [js](./sum-root-to-leaf-numbers.js)
