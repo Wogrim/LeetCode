@@ -207,3 +207,6 @@
 
 [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)
 - [js](./binary-tree-preorder-traversal.js)
+
+[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)
+- [js](./binary-tree-postorder-traversal.js)
